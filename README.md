@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo054141&count_private=true&hide=contribs&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo054141&layout=compact&theme=vue&exclude_repo=Todo-List,calculator,yurim_portfolio,Login,Login_Page,Todo,motionlabs,tradir_codingtest,pet-project,test1,BlockOdyssey,nextPractice,soo054141.github.io)
+
     
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soo054141&count_private=true&hide=contribs&show_icons=true&theme=buefy)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo054141&layout=compact&theme=buefy&exclude_repo=Todo-List,calculator,yurim_portfolio,Login,Login_Page,Todo,motionlabs,tradir_codingtest,pet-project,test1,BlockOdyssey,nextPractice,soo054141.github.io) -->
